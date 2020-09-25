@@ -52,11 +52,13 @@ All the basic functions work with the database connectivity, which means every p
 As aforementioned above, for the visualization of the plots, the matplotlib, and seaborn libraries have been imported, and CSV (comma-separated values) library helps to export data from MYSQL database and save it as CSV file for the further analysis.
 Now the application can import data as a data frame and study it for the statistical visualization.
 The application has a functionality to examine data and built correlation matric as well as to represent the percentage proportion of the CO2 emission to process steps (see Fig 5).
+
 ![Statistical Graphics](https://github.com/csafarli/Data-Exchange-Platform/blob/master/.idea/Picture%2010.png)
 
  Figure 5 – Statistical Graphics
 
 There are two different main sessions, supplier and designer. The suppliers’ primary functions are to add delete and visualize analyzed data (see Fig 6).
+
 ![Supplier Dashboard GUI](https://github.com/csafarli/Data-Exchange-Platform/blob/master/.idea/Picture%2011.png)
 
  Figure 6 – Supplier Dashboard Graphical Representation
@@ -64,6 +66,7 @@ There are two different main sessions, supplier and designer. The suppliers’ p
 ## 1.1.3 Design simulation board
 The designer has about the same functionality as the supplier. From the platform, it is possible to add data to the database, analyze and visualize it, and delete unwanted information. Moreover, the designer session gives the possibility to simulate design parameters and see the effects of the sustainability side.
 One of the main features is the checking design inputs’ (Dvorak and Kosior 2012) like closure material and bottle colour, effects on the environment.
+
 ![Design Warnings](https://github.com/csafarli/Data-Exchange-Platform/blob/master/.idea/Picture%2011.png)
 
  Figure 7 – Design Warnings
@@ -72,8 +75,10 @@ In the design board, the application reads all the data from the database and no
 
 Therefore, the presented graphics are based on the total data and illustrates the sustainability performance of the overall system.
 The design board gives the possibility to examine the overall system with graphical statistical tools. From the simulation, the designer side can identify problematic areas and see overall sustainability performance.
+
 ![Design Simulation Board](https://github.com/csafarli/Data-Exchange-Platform/blob/master/.idea/Picture%2013.png)
 
  Figure 8 – Design Simulation Board
+ 
 For the proposed model, no economically sensitive data will be shared. The organization can only have access to its own data from the database. The overall sustainability performance data is accessible from OEM; however, to get a right to see and evaluate the specific metrics, they must have authorization from the data owner company.
  
