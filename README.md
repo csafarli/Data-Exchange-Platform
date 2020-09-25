@@ -4,7 +4,6 @@ Data Exchange Through Supply Chain
 The application developed based on the proposed model (see Fig.1).
 
 ![Centralized Circularity Data Exchange](https://github.com/csafarli/Data-Exchange-Platform/blob/master/.idea/Picture%201.png)
-
 Figure 1 – Centralized Circularity Data Exchange
  
 To build the desktop application, the Python programming language, MYSQL database management, Tkinter toolkit, Pandas, NumPy, Seaborn, and Matplot libraries have been used. The project is consisting of 6 different modules, which are, a user log in and registration interfaces, supplier, customer and designer dashboards, database connectivity, and design dashboard.
@@ -12,6 +11,7 @@ To build the desktop application, the Python programming language, MYSQL databas
 ## 1.1.1 User Registration and Login
 The module provides the functionality of registration of the new user and sign-in process for the registered user. The main screen has two buttons, which give register and login options.
 
+![Register and Login screens](https://github.com/csafarli/Data-Exchange-Platform/blob/master/.idea/login%20register.png)
 Figure 2 – Registration and login screens
    
 The registration has the functionality of checking the uniqueness of username, selecting different sessions where only one designer is allowed to register in the system, saving registration information to the system for the login processes.
