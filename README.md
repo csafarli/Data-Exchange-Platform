@@ -67,7 +67,7 @@ There are two different main sessions, supplier and designer. The suppliers’ p
 The designer has about the same functionality as the supplier. From the platform, it is possible to add data to the database, analyze and visualize it, and delete unwanted information. Moreover, the designer session gives the possibility to simulate design parameters and see the effects of the sustainability side.
 One of the main features is the checking design inputs’ (Dvorak and Kosior 2012) like closure material and bottle colour, effects on the environment.
 
-![Design Warnings](https://github.com/csafarli/Data-Exchange-Platform/blob/master/.idea/Picture%2011.png)
+![Design Warnings](https://github.com/csafarli/Data-Exchange-Platform/blob/master/.idea/Picture%2012.png)
 
  Figure 7 – Design Warnings
 
