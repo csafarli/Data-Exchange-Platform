@@ -3,8 +3,7 @@ Data Exchange Through Supply Chain
 
 The application developed based on the proposed model (see Fig.1).
 
-![Centralized Circularity Data Exchange]
-(.idea/Picture 1.png)
+![Centralized Circularity Data Exchange](https://github.com/csafarli/Data-Exchange-Platform/blob/master/.idea/Picture%201.png)
 
 Figure 1 – Centralized Circularity Data Exchange
  
